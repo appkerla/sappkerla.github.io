@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ru.kerla",
+      "sha256_cert_fingerprints":
+        ["11:2A:DC:2C:E4:FC:20:41:68:C0:EA:1C:70:8F:54:1F:78:DA:5F:9A:A3:CF:BF:6C:8B:89:A5:39:7C:84:7D:BA"]
+    }
+  }
+]
